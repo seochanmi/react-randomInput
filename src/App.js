@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React바보
         </a>
         <div className='text-8xl'>tailwind테스트</div>
       </header>
